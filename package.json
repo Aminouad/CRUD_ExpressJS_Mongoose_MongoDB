@@ -1,0 +1,19 @@
+{
+  "name": "nodewithmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amine Ouadrani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "experss": "0.0.1-security",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
